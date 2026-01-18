@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+fpdf
+pydantic
+streamlit
+matplotlib
+seaborn
+pandas # optional for PostgreSQL
