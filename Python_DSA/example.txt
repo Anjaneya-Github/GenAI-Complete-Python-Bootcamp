@@ -1,2 +1,0 @@
-This is some text encoded in UTF-8.
-This line is appended.
